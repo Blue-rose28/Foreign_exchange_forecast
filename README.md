@@ -13,13 +13,13 @@ The Resources folder contains two following cvs files:
 - Create Decision LSTM (based on 100 days of Moving Average) for AUD/USD exchange rate prediction
 - Create a Dashboard to present the project results.
 ### Technologies
-Jupyter Notebook
-Pandas
-Regular Expressions
-Numpy
-Seaborn
-Panel
-Machine Learning
+- Jupyter Notebook
+- Pandas
+- Regular Expressions
+- Numpy
+- Seaborn
+- Panel
+- Machine Learning
 ### Getting Started
 - Clone this repo to your machine.
 - Run Realtime_DecisionTreeRegressor.ipynb in Jupyter Notebook.
